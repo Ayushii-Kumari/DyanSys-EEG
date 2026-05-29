@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+myenv/
+venv/
+
+# Dataset
+data/
+
+# Model Weights
+*.pth
+*.pt
+*.h5
+*.ckpt
+models/
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+data/
+primary/
+secondary/
+primary_raw/
+secondary_raw/
+datasets/
+results/
+
